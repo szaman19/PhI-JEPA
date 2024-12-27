@@ -1,0 +1,3 @@
+[submodule "ijepa"]
+	path = ijepa
+	url = git@github.com:szaman19/ijepa.git
